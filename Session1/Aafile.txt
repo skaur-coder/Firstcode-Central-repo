@@ -1,0 +1,8 @@
+Files in Java might be tricky, but it is fun enough!
+Learning Filereader
+FileReader is meant for reading streams of characters
+First program for filereader
+happy
+code
+java
+learning
